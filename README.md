@@ -14,7 +14,7 @@
 Project is created with:
 * Python
 **Packages (scikit-learn, Pandas, Numpy, NLTK)** 
-* Twitter Amazon Reviews Dataset
+* Twitter Amazon Reviews Dataset ( 100k Tweets-->90k Train, 10k Test )
 
 ### Model
 * TF-IDF Vectorization
